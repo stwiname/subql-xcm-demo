@@ -2,7 +2,7 @@ specVersion: 0.2.0
 name: xcmDemo
 version: 0.0.4
 description: This SubQuery project can be use as a starting point for Moonriver network
-repository: https://github.com/subquery/moonriver-subql-starter
+repository: https://github.com/stwiname/subql-xcm-demo
 schema:
   file: ./schema.graphql
 network:
